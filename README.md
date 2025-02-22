@@ -5,7 +5,7 @@
 Python Platformer
 
 ## Video demo:
-[YouTube Link](https://youtu.be/P1bh8Np4NYE)
+[YouTube Link](https://youtu.be/S3niJLATnFk)
 
 ## Description:
 A simple platformer game written in Pygame.
